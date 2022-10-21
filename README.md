@@ -2,32 +2,76 @@
 ## DARK LOVER Md Whatsapp Bot
 WA-BOT-XD - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 
-***
-
-### SETUP
-
-1. Scan the QR.
+</div>
+<p align="center">
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/dark-lover-opz">DARK</a>
     <br>
-<a href='https://baileys-md-qr.herokuapp.com/deployment' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+       | © |
+        Reserved 
+    <br> 
+</p>
 
-***
+- - -
 
-2. If You don't have a account in Heroku Create a account.
+<div align="center">
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
+<p align="center">
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DARK/ZaraMwol-Qr)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
+    
+- - -
+</p>
+</div>
+<div align="center">
+<a href="https://zaramwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+</p>
+<div align="center">
+<details>
+    <summary><b>𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐌𝐎𝐑𝐄 𝐓𝐇𝐈𝐍𝐆𝐒</b></summary>
 
-***
+</p>
 
-3. Now Deploy
-    <br>
-<a href='https://baileys-md-qr.herokuapp.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+```
+If Repl.it not working Try Termux for Qr scanning.
+    Just Copy the Link Below in Termux
+
+     bash <(curl -L https://t.ly/tHxh)
+```
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
+  
+## Developers
+  <div align="center">
+    
+  [![DARK](https://github.com/dark-lover-opz.png?size=100)](https://github.com/dark-lover-opz) |  [![Dark](https://github.com/dark-lover-opz.png?size=100)](https://github.com/dark-lover-opz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----
+[DARK](https://github.com/dark-lover-opz)  | [Dark](https://github.com/dark-lover-opz) | [afnanplk](https://github.com/afnanplk)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
 
 
-***
-* Join Group For Help
-<a href="https://chat.whatsapp.com/LOMGBEO2i9vKew562o1LFk"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-* Public bot Group
-<a href="https://chat.whatsapp.com/I1oGKTUKQe26g1NImV5Go0"><img alt="WhatsApp" src="https://img.shields.io/badge/-Public bot Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
