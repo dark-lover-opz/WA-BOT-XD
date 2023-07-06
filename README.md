@@ -1,77 +1,47 @@
-<a><img src='https://i.imgur.com/0gKjNKy.jpeg'/></a>
-## DARK LOVER Md Whatsapp Bot
-WA-BOT-XD - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+ <align="center">
+  <img src="assets/spotify.svg" width="100" align="center">
+  <h1>Spotify Readme</h1>
+
+  [![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
+  [![Badge](https://img.shields.io/github/forks/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/network)
+  [![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
 
 </div>
+
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/dark-lover-opz">DARK</a>
-    <br>
-       | © |
-        Reserved 
-    <br> 
+  A dynamic, customizable, and real-time Spotify now-playing widget for your README files that syncs with the song you’re currently playing. If you're not currently playing a song, it'll display one of your recent songs! Feel free to ask for help or make any PRs/issues/suggestions 😄
 </p>
 
-- - -
+## Previews
 
-<div align="center">
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
-<p align="center">
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DARK/ZaraMwol-Qr)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
-    
-- - -
-</p>
-</div>
-<div align="center">
-<a href="https://zaramwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
-    <br>
-</p>
-<div align="center">
-<details>
-    <summary><b>𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐌𝐎𝐑𝐄 𝐓𝐇𝐈𝐍𝐆𝐒</b></summary>
-
-</p>
-
+#### Default
 ```
-If Repl.it not working Try Termux for Qr scanning.
-    Just Copy the Link Below in Termux
-
-     bash <(curl -L https://t.ly/tHxh)
+/api
 ```
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+![Preview](https://tthn0.vercel.app/api)
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### ⚠️ Warning! 
+#### Spinning CD Effect
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+/api?spin=true
 ```
-  
-## Developers
-  <div align="center">
-    
-  [![DARK](https://github.com/dark-lover-opz.png?size=100)](https://github.com/dark-lover-opz) |  [![Dark](https://github.com/dark-lover-opz.png?size=100)](https://github.com/dark-lover-opz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[DARK](https://github.com/dark-lover-opz)  | [Dark](https://github.com/dark-lover-opz) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+![Preview](https://tthn0.vercel.app/api?spin=true)
 
+#### Include Scan Code
+```
+/api?scan=true
+```
+![Preview](https://tthn0.vercel.app/api?scan=true)
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
+#### Rainbow Equalizer
+```
+/api?rainbow=true
+```
+![Preview](https://tthn0.vercel.app/api?rainbow=true)
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+#### Dark Theme
+```
+/api?theme=dark
+```
+![Preview](https://tthn0.vercel.app/api?theme=dark)
+
+## Setup/Deployment
